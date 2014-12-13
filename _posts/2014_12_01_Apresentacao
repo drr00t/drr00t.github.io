@@ -1,4 +1,19 @@
 
+Motivo
+------
 
+Conheço o [Django](https://www.djangoproject.com/) a muito tempo, gosto do grau de solicidez do pacote [Django](https://www.djangoproject.com/)+[comunidade](https://www.djangoproject.com/community/), no entanto iniciar um projeto com o django da forma "correta" é difícil, pois é necessário considerar o deploy, a configuração para o desenvolvimento e para execução preparar o arquivo *settings.py*, etc.
 
-> Written with [StackEdit](https://stackedit.io/).
+Resolvi coletar buscar por boas práticas para o desenvolvimento saudável de um projeto com o [Django](https://www.djangoproject.com/) e acabei achando muita coisa interessante que ajudou a criar uma estrutura que considero no minimo interessante para se utilizar como base do um projeto, abaixo vou tratar de cada uma delas.
+
+ 1. Organização básica dos diretórios
+ 2. Preparação da estrutura para gestão de dependências com *requirements.txt*
+ 3. Preparação do arquivo settings.py para startup do projeto
+ 4. Preparar o startup do projeto com [tornado](http://www.tornadoweb.org/en/stable/)
+ 5. Views baseadas em classes
+ 6. [Django](https://www.djangoproject.com/) *apps* com suporte a troca de templates.
+ 7. Estrutura do template para o projeto com suporte a tema
+ 8. Gestão dos arquivos estáticos do projeto
+ 9. Configuração do nginx
+ 10. Códigos do projeto no github.
+
