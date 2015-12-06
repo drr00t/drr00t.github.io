@@ -1,6 +1,6 @@
 encoding: UTF-8
 title:            Computing Works
-description:      Propostas de soluções de ponta-a-aponta com tecnologias que considero interessantes que possam ajudar a outras pessoas.
+description:      Propostas de solucoes de ponta-a-aponta com tecnologias que considero interessantes que possam ajudar a outras pessoas.
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
@@ -12,7 +12,7 @@ url: http://drr00t.github.io
 owner:
   name:           Adriano Ribeiro
   avatar:         https://avatars1.githubusercontent.com/u/487003?v=3&s=460
-  bio:            "Fanático por arquitetura de software, atualmente trabalho com pesquisa e desenvolvimento de produtos de tecnologia num instituto de pesquisa, futuro desenvolvedor de jogos e corredor amador."
+  bio:            "Fanatico por arquitetura de software, atualmente trabalho com pesquisa e desenvolvimento de produtos de tecnologia num instituto de pesquisa, futuro desenvolvedor de jogos e corredor amador."
   email:          adribeiro(at)gmail(dot)com
   # Social networking links used in footer. Update and remove as you like.
   twitter: drr00t
