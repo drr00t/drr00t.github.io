@@ -1,5 +1,5 @@
 title:            Computing Works
-description:      Describe your website here.
+description:      Compilação de referências que uso para.
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
@@ -10,32 +10,32 @@ url: http://drr00t.github.io
 # Owner/author information
 owner:
   name:           Adriano Ribeiro
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  avatar:         https://avatars1.githubusercontent.com/u/487003?v=3&s=460
+  bio:            "Arquiteto de soluções, pesquisador em projetos de de senvolvimento de produtos e corredor amador."
   email:          adribeiro(at)gmail(dot)com
   # Social networking links used in footer. Update and remove as you like.
   twitter: drr00t
-  facebook:       
-  github: drr00t        
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  facebook:
+  github: drr00t
+  stackexchange:
+  linkedin: drr00t
+  instagram:
+  flickr:
+  tumblr:
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    +AdrianoRibeirooo
 
 # Background image to be tiled on all pages
-background: 
+background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Sao_Paulo
 future:      true
 highlighter: pygments
 markdown:    kramdown
