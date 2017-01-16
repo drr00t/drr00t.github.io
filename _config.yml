@@ -1,1 +1,10 @@
+#
+# This file contains configuration flags to customize your site
+#
 theme: jekyll-theme-architect
+
+# Name of your site (displayed in the header)
+name: Adriano Ribeiro
+
+# Short bio or description (displayed in the header)
+description: site pessoal
