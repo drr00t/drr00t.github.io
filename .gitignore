@@ -6,3 +6,11 @@ codekit-config.json
 node_modules
 Gemfile.lock
 .sass-cache
+.jekyll
+.jekyll-metadata
+.bundle
+.sass-cache
+Gemfile
+Gemfile.lock
+node_modules
+package.json
