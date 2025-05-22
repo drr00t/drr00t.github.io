@@ -19,12 +19,12 @@ The architecture consists of a PostgreSQL database, a Kafka cluster, and a Kafka
 
 ### My Reference Architecture diagram
 
-The Image-1 bellow, shows the base architecture used for most of companies that I have worked with. It is a simplified architecture that can be used for most of the companies. `Operational view` and `Analytical view` are separated. 
+The Image-1 bellow, shows the base architecture used for most of companies that I have worked with. It is a simplified architecture that can be used for most of the companies. Operational view and Analytical view are separated. 
 
 ![]({{site.baseurl}}/assets/img/00-big-picture-oltp-olap-1.png)
 _Image-1: Simplified architecture separating operational and analytical views_
 
-The Image-2 bellow, shows the architecture as I see currently, the `analytical view` it is a special case of `operational view`.
+The Image-2 bellow, shows the architecture as I see currently, the analytical view it is a special case of operational view.
 
 ![]({{site.baseurl}}/assets/img/00-big-picture-oltp-and-olap-special-case-1.png)
 _Image-2: Simplified architecture considering analytical view as a special case of operational_
