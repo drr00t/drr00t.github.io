@@ -29,3 +29,6 @@ Fork the ``master`` branch and follow the [Jekyll Installation Documentation](ht
 ## License
 
 GNU General Public License v3.0
+
+# to run 
+docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve
