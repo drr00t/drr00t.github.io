@@ -26,7 +26,7 @@ _Image-1: Simplified architecture separating operational and analytical views_
 
 The Image-2 bellow, shows the architecture as I see currently, the `analytical view` it is a special case of `operational view`.
 
-![]({{site.baseurl}}/assets/img/00-big-picture-oltp-andolap-especial-case-1.png)
+![]({{site.baseurl}}/assets/img/00-big-picture-oltp-and-olap-special-case-1.png)
 _Image-2: Simplified architecture considering analytical view as a special case of operational_
 
 ## Technology stack
