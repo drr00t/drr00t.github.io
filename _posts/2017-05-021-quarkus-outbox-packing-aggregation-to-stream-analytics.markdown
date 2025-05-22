@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Putting Posgresql Data in Motion with Kafka-connect and Debezium
+title: Quarkus Outbox Packing Domain Aggregate to Stream Analytics
 date: 2025-04-01 12:01:02 -0300
-description: A full environment of a running example of kafka-connect cdc with debezium and postgresql
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Quarkus, outbox, stream-analytics, cdc]
@@ -12,14 +12,8 @@ tags: [Quarkus, outbox, stream-analytics, cdc]
 
 
 
-## Techstack
-
-- Docker compose
-- Kafka-connect
-  - with debezium postgres connector
-- Debezium
-- Postgresql
-- Kafka
+## Plaid ramps kitsch woke pork belly
+90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-table leggings chambray iPhone, gluten-free twee synth kinfolk umami. Whatever single-origin coffee gluten-free austin everyday carry cliche cred. Plaid ramps kitsch woke pork belly organic. Trust fund whatever coloring book kombucha brooklyn. Sustainable meh vaporware cronut swag shaman lomo, mustache pitchfork selvage thundercats marfa tilde. Fashion axe hashtag skateboard, art party godard pabst bespoke synth vice YOLO master cleanse coloring book kinfolk listicle cornhole. Try-hard mixtape umami fanny pack man bun gastropub franzen tbh. Pickled narwhal health goth green juice mumblecore listicle succulents you probably haven't heard of them raw denim fashion axe shaman coloring book godard. Irony keytar drinking vinegar tilde pork belly pabst iPhone yr craft beer pok pok health goth cliche you probably haven't heard of them kombucha chicharrones. Direct trade hella roof party chia. Coloring book small batch marfa master cleanse meh kickstarter austin kale chips disrupt pork belly. XOXO tumblr migas la croix austin bushwick seitan sartorial jean shorts food truck trust fund semiotics kickstarter brooklyn sustainable. Umami knausgaard mixtape marfa. Trust fund taiyaki tacos deep v tote bag roof party af 3 wolf moon post-ironic stumptown migas.
 
 ![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
 
