@@ -11,13 +11,7 @@ tags: [cdc, change-data-capture, event streaming, stream analytics, distributed 
 
 In the world of streaming technologies, PostgreSQL stands out thanks to its low-overhead replication protocol. This enables the use of the change data capture (CDC) pattern to replicate data incrementally.
 
-
-
-
-## Architecture
-The architecture consists of a PostgreSQL database, a Kafka cluster, and a Kafka-connect cluster with the Debezium connector. The Debezium connector captures changes in the PostgreSQL database and sends them to a Kafka topic. Other services can then consume the changes from the Kafka topic.
-
-### My Reference Architecture diagram
+## My Reference Architecture diagram
 
 The Image-1 bellow, shows the base architecture used for most of companies that I have worked with. It is a simplified architecture that can be used for most of the companies. Operational view and Analytical view are separated. 
 
