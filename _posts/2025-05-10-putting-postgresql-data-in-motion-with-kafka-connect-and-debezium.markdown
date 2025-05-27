@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Putting Posgresql Data in Motion with Kafka-connect and Debezium
-date: 2025-04-01 12:01:02 -0300
+date: 2025-05-10 12:01:02 -0300
 description: A full environment of a running example of kafka-connect cdc with debezium and postgresql
 img: 01-cdc-triad.png 
 # fig-caption: 
@@ -42,6 +42,5 @@ All the components are open-source and can be run on any cloud provider or on-pr
 > Disclaimer: This repository is a work in progress and is not a recommendation and I will do not provide a full documentation about configuration options. My idea with this it's to provide some glance of how to use the technology stack and how to put it together.
 
 ## References
-[The Transactional Outbox Pattern](https://developer.confluent.io/courses/microservices/the-transactional-outbox-pattern/)
-[Eliminating the Dual-Write Problem in Apache Kafka Using the Outbox](https://www.confluent.io/events/kafka-summit-london-2023/eliminating-the-double-write-problem-in-apache-kafka-using-the-outbox/)
-[Pattern: Transactional outbox](https://microservices.io/patterns/data/transactional-outbox.html)
+- [Event Sourcing vs. Change Data Capture](https://debezium.io/blog/2020/02/10/event-sourcing-vs-cdc/)
+- [Succeeding with Change Data Capture](https://www.confluent.io/blog/how-change-data-capture-works-patterns-solutions-implementation/) 
