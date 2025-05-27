@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quarkus Outbox Packing Domain Aggregate to Stream Analytics
-date: 2026-00-01 12:01:02 -0300
+date: 2026-01-01 12:01:02 -0300
 description: Exploring the use of Quarkus and the Outbox pattern for efficient data streaming and aggregation.
 # img: i-rest.jpg # Add image post (optional)
 # fig-caption: # Add figcaption (optional)
