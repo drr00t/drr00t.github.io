@@ -3,8 +3,8 @@ layout: post
 title: Quarkus Outbox Packing Domain Aggregate to Stream Analytics
 date: 2025-06-05 12:01:02 -0300
 description: Exploring the use of Quarkus and the Outbox pattern for efficient data streaming and aggregation.
-# img: i-rest.jpg # Add image post (optional)
-fig-caption: 02-outbox-post.png # Add figcaption (optional)
+img: 02-outbox-post.png # Add image post (optional)
+# fig-caption:  # Add figcaption (optional)
 tags: [Quarkus, outbox, stream-analytics, cdc, aggregation, data-in-motion, data-engineering, kafka, debezium, postgresql, data-architecture]
 ---
 
